@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES := device/sample/etc/apns-full-conf.xml:system/etc/apns-conf.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 PRODUCT_DEVICE := d800
-PRODUCT_NAME := full_d800
+PRODUCT_NAME := slim_d800
 PRODUCT_BRAND := LGE
 PRODUCT_MODEL := LG-D800
 PRODUCT_MANUFACTURER := lge
