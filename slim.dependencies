@@ -1,18 +1,17 @@
 [
  {
-   "repository": "android_device_lge_g2-common",
-   "target_path": "device/lge/g2-common"
+   "repository":  "gmillz/android_device_lge_g2-common",
+   "target_path": "device/lge/g2-common",
+   "branch":      "kk4.4"
  },
  {
-   "repository": "android_hardware_qcom_display-mdss",
-   "target_path": "hardware/qcom/display-mdss"
+   "repository":  "gmillz/android_hardware_qcom_display-mdss",
+   "target_path": "hardware/qcom/display-mdss",
+   "branch":      "cm-10.2"
  },
  {
-   "repository": "android_hardware_qcom_media-v4l2",
-   "target_path": "hardware/qcom/media-v4l2"
- },
- {
-   "repository": "android_kernel_lge_msm8974",
-   "target_path": "kernel/lge/msm8974"
+   "repository":  "gmillz/kernel_lge_msm8974",
+   "target_path": "kernel/lge/msm8974",
+   "branch":      "kk4.4"
  }
 ]
