@@ -14,9 +14,6 @@ $(call inherit-product, vendor/slim/config/nfc_enhanced.mk)
 # Inherit device configuration
 $(call inherit-product, device/lge/d800/full_d800.mk)
 
-# Inherit led flash settings
-$(call inherit-product, vendor/slim/config/common_ledflash.mk)
-
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := d800
 PRODUCT_NAME := slim_d800
